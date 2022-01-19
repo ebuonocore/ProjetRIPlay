@@ -6,7 +6,7 @@ Sur la base de l'exercice 5 du sujet zéro du baccalauréat
 de la session 2021 de NSI
 https://pixees.fr/informatiquelycee/term/suj_bac/2021/sujet_1.pdf
 
-Objectifs:
+**Objectifs:**
   + Visualiser l'ensemble des tables de routage d'un petit réseau
   + Pas de notion d'adresses IP (ni de masques)
   + Aborder les notions de passerelles, de route
@@ -16,7 +16,7 @@ Objectifs:
   + Observer la stabilisation du système après des perturbations
   + Visualiser la construction et la mise à jour des routes
 
-Contraintes:
+**Contraintes:**
   + Pour rester lisible: les noeuds doivent avoir des noms courts
   (moins de 3 caractères)
   + Le réseau ne doit pas compter un trop grand nombre de routeurs
