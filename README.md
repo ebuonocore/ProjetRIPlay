@@ -2,8 +2,7 @@
 Simulation simplifiée du fonctionnement du protocole RIP
 par Eric Buonocore le 18/01/2022
 
-Sur la base de l'exercice 5 du sujet zéro du baccalauréat
-de la session 2021 de NSI
+Sur la base de l'exercice 5 du sujet zéro du baccalauréat de la spécialité NSI
 https://pixees.fr/informatiquelycee/term/suj_bac/2021/sujet_1.pdf
 
 **Objectifs:**
