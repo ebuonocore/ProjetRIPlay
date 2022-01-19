@@ -1,4 +1,4 @@
-# ProjetRIPlay V2
+# ProjetRIPlay v2
 Simulation simplifiée du fonctionnement du protocole RIP
 par Eric Buonocore le 18/01/2022
 
