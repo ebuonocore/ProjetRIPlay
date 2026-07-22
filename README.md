@@ -14,9 +14,10 @@ Sur la base de l'exercice 5 du sujet zéro du baccalauréat de la spécialité N
   + Visualiser la propagation de l'information dans les tables de routage
   + Observer la stabilisation du système après des perturbations
   + Visualiser la construction et la mise à jour des routes
+  + Pas de notion d'hôte, ni de switch
 
 **Contraintes:**
-  + Pour rester lisible: les noeuds doivent avoir des noms courts
+  + Pour rester lisible : les noeuds doivent avoir des noms courts
   (moins de 3 caractères)
   + Le réseau ne doit pas compter un trop grand nombre de routeurs
   (un dizaine au  maximum)
